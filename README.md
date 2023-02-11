@@ -1,2 +1,3 @@
 # email_verifier_tool
-Email Verifier Tool
+
+Create a Simple Email Verifier Tool
